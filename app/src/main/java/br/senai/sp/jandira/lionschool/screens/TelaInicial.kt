@@ -69,7 +69,7 @@ fun TelaInicial(modifier: Modifier = Modifier){
                     fontWeight = FontWeight.Bold,
                     modifier = Modifier
                         .width(150.dp)
-                        .padding(top = 60.dp)
+                        .padding(top = 20.dp)
                 )
             }
             Column (
